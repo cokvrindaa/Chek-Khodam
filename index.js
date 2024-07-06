@@ -21,7 +21,6 @@ let noinput = document.getElementById("noinput");
 let creator = document.getElementById("creator");
 function cek(){
     if((inputuser.value.trim() === "")){
-        alert("Input tidak boleh Kosong");
         noinput.style.display = "block";
     }
     else{
