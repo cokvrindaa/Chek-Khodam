@@ -4,7 +4,7 @@
 <h3 align="center">Chek Khodam</h3>
 
 - 🔭 Fungsi? **just for fun😂**
-- 🔭 LInk ****
+- 🔭 LInk **https://cekkhodam-online.netlify.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
